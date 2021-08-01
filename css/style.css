@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_part{
+    width: 90%;
+    margin: 5%;
+    overflow: hidden;
+    border-bottom: 1px solid rgb(224, 224, 224) ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.logo{width: 20%;float: left;}
+nav{width: 50%;float: right;overflow: hidden;}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 30px;
+}
+nav ul li a{
+
+text-decoration: none;
+
+font-size: 20px;
+
+text-transform: capitalize;
+
+color: black;
+}
+.contact-section{
+
+}
+.contact-section h1{
+    
+color: #0F2656;
+    
+font-size: 48px;
+    
+text-align: center;
+    
+margin-top: 20px;
+}
+.contact-section h2{
+    
+color: #008AFF;
+    
+font-size: 48px;
+    
+text-align: center;
+    
+margin-top: 15px;
+}
+.contact-section p{
+    
+color: #0F2656;
+    
+text-align: center;
+    
+margin: 20px 0;
+}
+.img{
+
+text-align: center;
+}
+.img img{
+
+width: 50%;
+}
+.project_content{
+
+overflow: hidden;
+}
+.left_content{
+    
+width: 48%;
+    
+float: left;
+}
+.left_content h1{
+
+color: #F15767;
+
+text-align: right;
+}
+.left_content p{
+
+color: #0F2656;
+
+text-align: right;
+}
+.right_content{
+
+width: 48%;
+
+float: right;
+}
+.right_content h1{
+
+text-align: left;
+}
+.service{
+
+width: 90%;
+
+margin-left: 5%;
+
+/* overflow: hidden; */
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+
+overflow: hidden;
+}
+.service_one{
+
+width: 30%;
+
+background-color: #FDEBED;
+
+float: left;
+
+text-align: center;
+
+padding: 30px 0;
+}
+.service_one img{
+
+/* text-align: center; */
+
+width: 50%;
+}
+.service_one h2{
+
+text-align: left;
+}
+.service_one p{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_two{
+
+width: 30%;
+
+background-color: #EBF9F4;
+
+float: left;
+
+margin-left: 5%;
+
+text-align: center;
+
+padding: 30px 0;
+}
+.service_two img{
+
+/* text-align: center; */
+
+width: 53%;
+}
+.service_two h2{
+
+text-align: left;
+}
+.service_two p{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_three{
+
+width: 30%;
+
+background-color: #FFF7E8;
+
+float: right;
+
+text-align: center;
+
+padding: 30px 0;
+}
+.service_threeo img{
+
+}
+.service_three h2{
+
+text-align: left;
+}
+.service_three p{
+
+text-align: left;
+
+padding: 10px;
+}
+footer{
+
+background: #008AFF;
+
+text-align: center;
+
+padding: 30px 0;
+}
+footer p{
+
+color: #d8d8d8;
+
+font-size: 18px;
+}
+footer p span{
+    
+color: #fff;
+    
+font-size: 20px;
+    
+font-weight: 700;
+}
+
